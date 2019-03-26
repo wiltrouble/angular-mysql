@@ -37,3 +37,4 @@ class GamesController {
 
 const gamesController = new GamesController();
 export default gamesController;
+
